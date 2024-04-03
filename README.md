@@ -6,9 +6,9 @@ I used to fetch the price for the *TSLA(Tesla)* company, It will compare the cur
 I used to send the no. of message according to the no. of articals.
 
 ### APIs that I used to build this project:-
-1)***For fetching the Stock Prices*** : https://www.alphavantage.co/
-2)***For fetching the news articals for given company*** : https://newsapi.org/
-3)***For sending messages*** : https://www.twilio.com/en-us
+1. ***For fetching the Stock Prices*** : https://www.alphavantage.co/
+2. ***For fetching the news articals for given company*** : https://newsapi.org/
+3. ***For sending messages*** : https://www.twilio.com/en-us
 
 ## How to automate this processes?
 You receive the messages whenever you run this file, But we can automate the process that will gives you the messages every day.
