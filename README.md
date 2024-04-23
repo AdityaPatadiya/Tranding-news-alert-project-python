@@ -1,4 +1,4 @@
-# Tranding-News-Alert-Project-Python
+# Treading-News-Alert-Project-Python
 This is the news alert project that will send sms to your number. It will make you aware about the stock price for specific comapny that you looking for.
 
 ## What I've done in this project?
